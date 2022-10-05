@@ -1,6 +1,6 @@
-# shopapp
+# shopApp
 
-A new Flutter project.
+App for ordering items, listing new items using Flutter.
 
 ## Getting Started
 
