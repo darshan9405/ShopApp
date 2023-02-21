@@ -1,8 +1,9 @@
-# shopapp
+# shopApp
 
 Shopping App made using Flutter.
 Login Screen:
 ![Alt text](./images/home.png?raw=true "Login Screen")
+App for ordering items, listing new items using Flutter.
 
 ## Getting Started
 
