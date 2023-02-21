@@ -1,6 +1,8 @@
 # shopapp
 
-A new Flutter project.
+Shopping App made using Flutter.
+Login Screen:
+![Alt text](./images/home.png?raw=true "Login Screen")
 
 ## Getting Started
 
