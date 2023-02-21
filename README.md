@@ -2,10 +2,9 @@
 
 App for ordering items, listing new items using Flutter.
 
-Login Screen:
-
-<div align="center">
-    <img src="./images/home.png" width="400px"</img> 
+<div>
+    <img src="./images/home.png" width="200px" height = "400px"</img> 
+    <img src="./images/products.png" width="200px" height = "400px"</img> 
 </div>
 
 ## Getting Started
