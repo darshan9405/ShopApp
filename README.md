@@ -5,6 +5,14 @@ App for ordering items, listing new items using Flutter.
 <div>
     <img src="./images/home.png" width="200px" height = "400px"</img> 
     <img src="./images/products.png" width="200px" height = "400px"</img> 
+    <img src="./images/product.png" width="200px" height = "400px"</img>
+    <img src="./images/modifyOrder.png" width="200px" height = "400px"</img>
+</div>
+
+<div>
+    <img src="./images/order.png" width="200px" height = "400px"</img> 
+    <img src="./images/addItem.png" width="200px" height = "400px"</img> 
+    <img src="./images/deleteItem.png" width="200px" height = "400px"</img>
 </div>
 
 ## Getting Started
