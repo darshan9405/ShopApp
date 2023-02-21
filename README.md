@@ -1,9 +1,12 @@
 # shopApp
 
-Shopping App made using Flutter.
-Login Screen:
-![Alt text](./images/home.png?raw=true "Login Screen")
 App for ordering items, listing new items using Flutter.
+
+Login Screen:
+
+<div align="center">
+    <img src="./images/home.png" width="400px"</img> 
+</div>
 
 ## Getting Started
 
